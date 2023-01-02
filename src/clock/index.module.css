@@ -1,0 +1,27 @@
+.title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.display {
+    width: 20rem;
+    height: 5rem;
+    border: 1px solid #efefef;
+    border-radius: 1rem;
+    display: flex;
+    place-content: space-around;
+    place-items: center;
+    font-size: 1.5rem;
+}
+
+.panel {
+    display: flex;
+    place-content: space-around;
+    padding: 1rem;
+}
+
+.time {
+    background-color: #3f3f3f;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
